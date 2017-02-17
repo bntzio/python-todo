@@ -1,11 +1,7 @@
-**My Python Apps**
-========================
+# Python todo (pydo)
 
-Este repositorio contiene mis proyectos
-creados en Python.
+A super simple todo list terminal application I made with python.
 
-Nota: para los programas "idea_vault.py" y "to_do_vault.py" no se han agregado los archivos .txt que se necesitan
-para pasar al ARGV (argument vector) como parametros, se necesitan añadir para que el programa funcione, por seguridad, no incluí los mios ya que contienen información personal, así que se necesitan agregar los archivos .txt
-para pasarlos al ARGV como parametros. Se necesita crear: "idea_db.txt" y "to_do_db.txt" y listo!
+> This was my first ever python program built 100% by myself.
 
--Enrique Benitez (hbendev)
+![](https://cl.ly/3s0L22021d3l/Screen%20Shot%202017-02-16%20at%209.30.49%20PM.png)
